@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am Luis Heredia 👋</h1>
 </div>
-<img src="https://subir-imagen.com/images/2023/12/17/setUp.jpeg">
+<img src="https://subir-imagen.com/images/2023/12/17/setUpf2cc2ae2a2c1bba5.jpeg">
 
 
 ## Sobre mi
