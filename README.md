@@ -4,7 +4,7 @@
 <img src="https://subir-imagen.com/images/2023/12/17/setUpf2cc2ae2a2c1bba5.jpeg">
 
 
-## Sobre mi
+## About me
 
 - ⭐ Github Star ⭐ 
 - 📲 Web developer
@@ -12,12 +12,12 @@
 - 🤝 Looking for a job
 <br>
 
-## Proyectos
+## Projects
 <table>
 <tr>
   
 <td width="50%">
-<h3 align="center">Gestor de tareas</h3>
+<h3 align="center">Task Manager</h3>
 <div align="center">
 <a href="https://github.com/Skrillboss/Gestor-de-tareas-personal" target="_blank"><img src="https://subir-imagen.com/images/2023/12/17/proyecto.png" width="400" alt="Curso básico android"></a>
 <p>
@@ -34,7 +34,7 @@ I apply PHP, OOP (Object-Oriented Programming), code architecture, HTML, CSS, an
 
 <td width="50%">
                <br>
-<h3 align="center">Portafolio</h3>
+<h3 align="center">Portfolio</h3>
 <div align="center">                                       
 <a href="https://github.com/Skrillboss/portafolio" target="_blank"><img src="https://subir-imagen.com/images/2023/12/17/proyectob217bd188e90c521.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
