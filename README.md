@@ -25,7 +25,9 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aplico PHP, POO, Arquitectura de codigo, HTML, CSS y SQL para realizar un gestor de tareas personal, aun sigue en desarrollo...</p>
+<p>
+I apply PHP, OOP (Object-Oriented Programming), code architecture, HTML, CSS, and SQL to develop a personal task manager. It is still in progress.
+</p>
 </div>
                                                                                       
 </td>
@@ -40,7 +42,9 @@
 <a href="https://github.com/Skrillboss/portafolio" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>Primer portafolio realizado en forma de practicar HTML y CSS, de vez en cuando para seguir practicando con estas 2 tecnologias intento agregarle nuevos apartados, animaciones o cualquier cosa que se me ocurra, sigue en desarrollo...</p>
+</p>
+First portfolio created as a way to practice HTML and CSS. Occasionally, to continue honing my skills with these two technologies, I attempt to incorporate new sections, animations, or anything else that comes to mind. It is still in development.
+</p>
 </div>                                                             
 </table>                                                                                 
 </div>
