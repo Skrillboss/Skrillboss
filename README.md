@@ -6,7 +6,6 @@
 
 ## About me
 
-- ⭐ Github Star ⭐ 
 - 📲 Web developer
 - 📚 IFP student
 - 🤝 Looking for a job
