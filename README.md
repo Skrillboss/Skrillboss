@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am Luis Heredia 👋</h1>
 </div>
-<img src="https://subir-imagen.com/images/2023/12/17/setUpf2cc2ae2a2c1bba5.jpeg">
+<img src="https://subir-imagen.com/images/2024/09/09/WhatsApp-Image-2024-09-09-at-7.23.16-PM.jpeg">
 
 
 ## About me
@@ -18,15 +18,14 @@
 <td width="50%">
 <h3 align="center">Task Manager</h3>
 <div align="center">
-<a href="https://github.com/Skrillboss/Gestor-de-tareas-personal" target="_blank"><img src="https://subir-imagen.com/images/2023/12/17/proyecto.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Skrillboss/Gestor-de-tareas-personal" target="_blank"><img src="https://subir-imagen.com/images/2024/09/09/WhatsApp-Image-2024-09-09-at-7.27.07-PM.jpe" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/Skrillboss/Gestor-de-tareas-personal" target="_blank">
+<a href="https://github.com/Skrillboss/no_wait" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>
-I apply PHP, OOP (Object-Oriented Programming), code architecture, HTML, CSS, and SQL to develop a personal task manager. It is still in progress.
-</p>
+NoWait Developed with Flutter is a project whose objective is to avoid physical queues, being able to make virtual queues in order to optimize time, you can also see the back-end in development <a href="https://github.com/Skrillboss/no_wait_backEnd">here</p>
 </div>
                                                                                       
 </td>
