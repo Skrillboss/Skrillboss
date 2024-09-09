@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">NoWait</h3>
 <div align="center">
-<a href="https://github.com/Skrillboss/no_wait" target="_blank"><img src="https://subir-imagen.com/images/2024/09/09/WhatsApp-Image-2024-09-09-at-7.27.07-PM.th.jpeg" width="400" alt="Imagen de muestra NoWait"></a>
+<a href="https://github.com/Skrillboss/no_wait" target="_blank"><img src="https://subir-imagen.com/images/2024/09/09/WhatsApp-Image-2024-09-09-at-7.27.07-PM.md.jpeg" width="400" alt="Imagen de muestra NoWait"></a>
 <p>
 <a href="https://github.com/Skrillboss/no_wait" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
