@@ -6,9 +6,9 @@
 
 ## About me
 
-- 📲 Web developer
-- 📚 IFP student
-- 🤝 Looking for a job
+- 📲 Full-Stack developer
+- 📚 Higher Degree Graduate in DAW
+- 🤝 Currently working
 <br>
 
 ## Projects
