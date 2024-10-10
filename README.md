@@ -10,9 +10,6 @@
 - 📚 Higher Degree Graduate in DAW
 - 🤝 Currently working
 
-## Stack
-- ![Static Badge](https://img.shields.io/badge/:badgeContent?label=Dart)
-
 <br>
 
 ## Projects
